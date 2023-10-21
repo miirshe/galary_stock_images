@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "formidable": "^3.5.1",
+        "nodemon": "^3.0.1"
+    }
+}
